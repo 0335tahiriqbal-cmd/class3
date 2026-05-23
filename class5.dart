@@ -1,0 +1,3 @@
+void main() {
+  print("class 5 file");
+}
